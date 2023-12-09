@@ -6,7 +6,7 @@
 I’m A K M Sakil Sagor, a Web developer and specialize in front end technologies. I'm highly passionate about JavaScript-based software development technologies such as: MERN Stack (MongoDB, Express.js, React, Node.js)
 
 Skills:
- - JavaScript, ES6, React.js,Node.js, Express.js, MongoDB 
+ - JavaScript, ES6, React.js,Node.js, Express.js, MongoDB , Mongoose, 
  - Firebase, Material UI, Bootstrap, Tailwind, HTML5, CSS3.
  - GitHub, VS Code, Chrome Dev Tools, Heroku, Netlify, Photoshop, Figma.
 
