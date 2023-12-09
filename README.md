@@ -26,7 +26,6 @@ I’m A K M Sakil Sagor, a Web developer who specializes in front-end technologi
 
 
 ### Connect with me:
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sakil-sagor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sakilsagor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/akmsakilsagor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akm.sakilsagor/) <a href="mailto:akmsakilsagor110@gmail.com" target="blank"><img  src="https://raw.githubusercontent.com/mdrobin45/mdrobin45/0028a9c33231b185860f7a723b6897a8229f549b/assets/images/gmail-icon.svg" alt="akmsakilsagor110@gmail.com" height="30" width="40" /></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakil-sagor&show_icons=true)  
