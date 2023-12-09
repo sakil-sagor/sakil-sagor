@@ -12,6 +12,9 @@ Skills:
  - Firebase, Material UI, Bootstrap, Tailwind, HTML5, CSS3.
  - GitHub, VS Code, Chrome Dev Tools, Heroku, Netlify, Photoshop, Figma.
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku)]
+
 My hobby is keeping myself updated with all latest technologies and tools .
 
 Feel free to contact me directly at sakilsagor76543@gmail.com
