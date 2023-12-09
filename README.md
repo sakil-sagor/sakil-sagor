@@ -13,7 +13,7 @@ Skills:
  - GitHub, VS Code, Chrome Dev Tools, Heroku, Netlify, Photoshop, Figma.
 
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nodejs,express,mongodb,vite,github,firebase,heroku,netlify,)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,materialui,react,nodejs,express,mongodb,vite,github,firebase,heroku,netlify)
 
 My hobby is keeping myself updated with all latest technologies and tools .
 
