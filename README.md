@@ -1,7 +1,7 @@
 ![React Developer (MERN Stack) || JavaScript Expert](https://i.ibb.co/ys1nR1Z/akm-sakil-sagor-github-cover-image.png)
 <br>
 <h1 align="center"><b>
- ### Hi there 👋, I’m A K M Sakil Sagor
+  Hi there 👋, I’m A K M Sakil Sagor
 </b></h1>
 <br>
 
