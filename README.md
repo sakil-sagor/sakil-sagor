@@ -1,11 +1,13 @@
 ![React Developer (MERN Stack) || JavaScript Expert](https://i.ibb.co/ys1nR1Z/akm-sakil-sagor-github-cover-image.png)
-
-### Hi there 👋, I’m A K M Sakil Sagor
-#### React Developer (MERN Stack) || JavaScript Expert
+<br>
+<h1 align="center"><b>
+ ### Hi there 👋, I’m A K M Sakil Sagor
+</b></h1>
+<br>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakil-sagor&theme=radical&card_width=880" alt="GitHub Streak" /></a>
 
-I’m A K M Sakil Sagor, a Web developer and specialize in front end technologies. I'm highly passionate about JavaScript-based software development technologies such as: MERN Stack (MongoDB, Express.js, React, Node.js)
+I’m A K M Sakil Sagor, a Web developer who specializes in front-end technologies. I'm highly passionate about JavaScript-based software development technologies such as MERN Stack (MongoDB, Express.js, React, Node.js)
 
 Skills:
  - JavaScript, ES6, React.js,Node.js, Express.js, MongoDB , Mongoose, 
@@ -15,7 +17,7 @@ Skills:
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,materialui,react,nodejs,express,mongodb,vite,github,firebase,heroku,netlify)
 
-My hobby is keeping myself updated with all latest technologies and tools .
+My hobby is keeping myself updated with all the latest technologies and tools.
 
 Feel free to contact me directly at sakilsagor76543@gmail.com
 
