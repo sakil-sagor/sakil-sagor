@@ -1,10 +1,15 @@
 ![React Developer (MERN Stack) || JavaScript Expert](https://i.ibb.co/ys1nR1Z/akm-sakil-sagor-github-cover-image.png)
 <br>
 ### Hi there 👋, I’m A K M Sakil Sagor
-#### Front-end Developer (MERN Stack)
+#### Full-Stack Developer(MERN) | Next.js & TypeScript Expert
 <br>
-I’m A K M Sakil Sagor, a Web developer who specializes in front-end technologies. I'm highly passionate about JavaScript-based software development technologies such as MERN Stack (MongoDB, Express.js, React, Node.js)
+I am an expert full-stack developer specializing in modern web technologies, including Next.js, TypeScript, and Docker. With a strong foundation in JavaScript (ES6), React.js, Node.js, Express.js, MongoDB, and Mongoose, I build scalable and performant web applications.
 
+My expertise extends to UI libraries like Shadcn, Next UI, Radix UI, Chakra UI, and design frameworks like Material UI, Bootstrap, and Tailwind. I focus on delivering responsive, pixel-perfect user interfaces with a seamless user experience.
+
+On the backend, I leverage Firebase for authentication and serverless solutions. I am also proficient in containerization with Docker, and I use deployment platforms like Vercel, Heroku, Netlify, and cPanel to bring projects to production.
+
+I have extensive experience working with tools such as GitHub, VS Code, Chrome Dev Tools, Photoshop, and Figma, ensuring both functionality and design are at the forefront of every project.
 
 ### My GitHub Stats
 
