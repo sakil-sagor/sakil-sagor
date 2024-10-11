@@ -17,30 +17,34 @@ I have extensive experience working with tools such as GitHub, VS Code, Chrome D
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakil-sagor&theme=radical&card_width=880" alt="GitHub Streak" /></a>
 
 
-Languages and Tools
 ### 💻 Skills & Expertise
+
 As a full-stack developer, I bring a diverse set of skills to the table. My GitHub repositories reflect my expertise in the following technologies:
 
-####Frontend Development:
--JavaScript (ES6+): Proficient in writing modern JavaScript code.
--React.js: Experience building dynamic, interactive user interfaces.
--Next.js: Expertise in server-side rendering (SSR) and static site generation (SSG).
--TypeScript: Strong in statically-typed JavaScript for scalable applications.
--Tailwind CSS, Bootstrap, Material UI: Skilled in modern CSS frameworks for responsive designs.
--UI Libraries: Shadcn, Next UI, Radix UI, Chakra UI.
-####Backend Development:
--Node.js: Proficient in building scalable server-side applications.
-Express.js: Experienced in creating RESTful APIs and middleware integration.
-MongoDB & Mongoose: Expertise in NoSQL database management and schema modeling.
-Firebase: Utilized for real-time databases and authentication solutions.
-DevOps & Deployment:
-Docker: Containerization and deployment of applications in isolated environments.
-Vercel, Netlify, Heroku, cPanel: Experience deploying full-stack applications.
-Tools & Platforms:
-GitHub: Version control and collaboration.
-VS Code: Primary IDE for efficient development.
-Chrome Dev Tools: Debugging and performance optimization.
-Photoshop & Figma: UI/UX design tools for integrating seamless user interfaces.
+#### Frontend Development:
+- **JavaScript (ES6+)**: Proficient in writing modern JavaScript code.
+- **React.js**: Experience building dynamic, interactive user interfaces.
+- **Next.js**: Expertise in server-side rendering (SSR) and static site generation (SSG).
+- **TypeScript**: Strong in statically-typed JavaScript for scalable applications.
+- **Tailwind CSS, Bootstrap, Material UI**: Skilled in modern CSS frameworks for responsive designs.
+- **UI Libraries**: Shadcn, Next UI, Radix UI, Chakra UI.
+
+#### Backend Development:
+- **Node.js**: Proficient in building scalable server-side applications.
+- **Express.js**: Experienced in creating RESTful APIs and middleware integration.
+- **MongoDB & Mongoose**: Expertise in NoSQL database management and schema modeling.
+- **Firebase**: Utilized for real-time databases and authentication solutions.
+
+#### DevOps & Deployment:
+- **Docker**: Containerization and deployment of applications in isolated environments.
+- **Vercel, Netlify, Heroku, cPanel**: Experience deploying full-stack applications.
+
+#### Tools & Platforms:
+- **GitHub**: Version control and collaboration.
+- **VS Code**: Primary IDE for efficient development.
+- **Chrome Dev Tools**: Debugging and performance optimization.
+- **Photoshop & Figma**: UI/UX design tools for integrating seamless user interfaces.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakil-sagor)](https://github.com/anuraghazra/github-readme-stats)
 
