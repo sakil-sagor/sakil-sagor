@@ -1,4 +1,4 @@
-![React Developer (MERN Stack) || JavaScript Expert](https://i.ibb.co/ys1nR1Z/akm-sakil-sagor-github-cover-image.png)
+![React Developer (MERN Stack) || JavaScript Expert](https://i.ibb.co.com/y83wQ8D/akm-sakil-sagor-github-cover-image-1.png)
 <br>
 ### Hi there 👋, I’m A K M Sakil Sagor
 #### Full-Stack Developer(MERN) | Next.js & TypeScript Expert
