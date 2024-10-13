@@ -25,7 +25,7 @@ As a full-stack developer, I bring a diverse set of skills to the table. My GitH
 - **JavaScript (ES6+)**: Proficient in writing modern JavaScript code.
 - **React.js**: Experience building dynamic, interactive user interfaces.
 - **Next.js**: Expertise in server-side rendering (SSR) and static site generation (SSG).
-- **TypeScript**: Strong in statically-typed JavaScript for scalable applications.
+- **TypeScript**: Strong in statically typed JavaScript for scalable applications.
 - **Tailwind CSS, Bootstrap, Material UI**: Skilled in modern CSS frameworks for responsive designs.
 - **UI Libraries**: Shadcn, Next UI, Radix UI, Chakra UI.
 
