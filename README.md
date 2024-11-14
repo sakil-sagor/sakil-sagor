@@ -22,7 +22,7 @@ I have extensive experience working with tools such as GitHub, VS Code, Chrome D
 As a full-stack developer, I bring a diverse set of skills to the table. My GitHub repositories reflect my expertise in the following technologies: 
 
 #### Frontend Development:  
-- **JavaScript (ES6+)**: Proficient in writing modern JavaScript code.
+- **JavaScript (ES6+)**: Proficient in writing modern JavaScript code. 
 - **React.js**: Experience building dynamic, interactive user interfaces.
 - **Next.js**: Expertise in server-side rendering (SSR) and static site generation (SSG).
 - **TypeScript**: Strong in statically typed JavaScript for scalable applications.
