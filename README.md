@@ -11,7 +11,7 @@ On the backend, I leverage Firebase for authentication and serverless solutions.
 
 I have extensive experience working with tools such as GitHub, VS Code, Chrome Dev Tools, Photoshop, and Figma, ensuring both functionality and design are at the forefront of every project.
 
-### My GitHub Stats
+### My GitHub Stats 
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakil-sagor&theme=radical&card_width=880" alt="GitHub Streak" /></a>
@@ -19,7 +19,7 @@ I have extensive experience working with tools such as GitHub, VS Code, Chrome D
 
 ### 💻 Skills & Expertise  
  
-As a full-stack developer, I bring a diverse set of skills to the table. My GitHub repositories reflect my expertise in the following technologies: 
+As a full-stack developer, I bring a diverse set of skills to the table. My GitHub repositories reflect my expertise in the following technologies:   
 
 #### Frontend Development:  
 - **JavaScript (ES6+)**: Proficient in writing modern JavaScript code. 
