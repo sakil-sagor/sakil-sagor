@@ -19,7 +19,7 @@ I have extensive experience working with tools such as GitHub, VS Code, Chrome D
 
 ### 💻 Skills & Expertise  
  
-As a full-stack developer, I bring a diverse set of skills to the table. My GitHub repositories reflect my expertise in the following technologies:   
+As a full-stack developer, I bring a diverse set of skills to the table. My GitHub repositories reflect my expertise in the following technologies:    
 
 #### Frontend Development:  
 - **JavaScript (ES6+)**: Proficient in writing modern JavaScript code. 
