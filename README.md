@@ -5,7 +5,7 @@
 <br> 
 I am an expert full-stack developer specializing in modern web technologies, including Next.js, TypeScript, and Docker. With a strong foundation in JavaScript (ES6), React.js, Node.js, Express.js, MongoDB, and Mongoose, I build scalable and performant web applications.
 
-My expertise extends to UI libraries like Shadcn, Next UI, Radix UI, Chakra UI, and design frameworks like Material UI, Bootstrap, and Tailwind. I focus on delivering responsive, pixel-perfect user interfaces with a seamless user experience.
+My expertise extends to UI libraries like Shadcn, Next UI, Radix UI, Chakra UI, and design frameworks like Material UI, Bootstrap, and Tailwind. I focus on delivering responsive, pixel-perfect user interfaces with a seamless user experience. 
 
 On the backend, I leverage Firebase for authentication and serverless solutions. I am also proficient in containerization with Docker, and I use deployment platforms like Vercel, Heroku, Netlify, and cPanel to bring projects to production.
 
