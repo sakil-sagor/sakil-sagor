@@ -14,7 +14,7 @@ I have extensive experience working with tools such as GitHub, VS Code, Chrome D
 ### My GitHub Stats 
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakil-sagor&theme=radical&card_width=880" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakil-sagor&theme=radical&card_width=880" alt="GitHub Streak" /></a> 
 
 
 ### 💻 Skills & Expertise  
