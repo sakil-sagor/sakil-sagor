@@ -29,7 +29,7 @@ As a full-stack developer, I bring a diverse set of skills to the table. My GitH
 - **Tailwind CSS, Bootstrap, Material UI**: Skilled in modern CSS frameworks for responsive designs.
 - **UI Libraries**: Shadcn, Next UI, Radix UI, Daisy UI, Chakra UI, etc.
 
-#### Backend Development:  
+#### Backend Development:   
 - **Node.js**: Proficient in building scalable server-side applications.
 - **Express.js**: Experienced in creating RESTful APIs and middleware integration.
 - **MongoDB & Mongoose**: Expertise in NoSQL database management and schema modeling.
