@@ -2,7 +2,7 @@
 <br>
 ### Hi there  👋, I’m A K M Sakil Sagor       
 #### Full-Stack Developer(MERN) | Next.js & TypeScript Expert            
-<br>    
+<br>     
 I am an expert full-stack developer specializing in modern web technologies, including Next.js, TypeScript, and Docker. With a strong foundation in JavaScript (ES6), React.js, Node.js, Express.js, MongoDB, and Mongoose, I build scalable and performant web applications.
  
 My expertise extends to UI libraries like Shadcn, Next UI, Radix UI, Chakra UI, and design frameworks like Material UI, Bootstrap, and Tailwind. I focus on delivering responsive, pixel-perfect user interfaces with a seamless user experience. 
