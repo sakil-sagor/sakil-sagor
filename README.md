@@ -1,7 +1,7 @@
 ![React Developer (MERN Stack) || JavaScript Expert](https://i.ibb.co.com/y83wQ8D/akm-sakil-sagor-github-cover-image-1.png)
 <br>
 ### Hi there  👋, I’m A K M Sakil Sagor       
-#### Full-Stack Developer(MERN) | Next.js & TypeScript Expert              
+#### Full-Stack Developer(MERN) | Next.js & TypeScript Expert               
 <br>     
 I am an expert full-stack developer specializing in modern web technologies, including Next.js, TypeScript, and Docker. With a strong foundation in JavaScript (ES6), React.js, Node.js, Express.js, MongoDB, and Mongoose, I build scalable and performant web applications.
  
