@@ -37,12 +37,14 @@ I care about:
 
 ## 🏗 What I Build
 
-- SaaS platforms
-- Admin dashboards
-- Booking & reservation systems
-- Business & internal tools
-- REST APIs & backend systems
-- SEO-optimized, performance-focused web apps
+- Production-grade SaaS platforms (multi-role, subscription-ready architectures)
+- Admin dashboards & internal tools with role-based access control
+- Booking, reservation & scheduling systems
+- E-commerce & business management systems
+- Authentication & authorization systems (JWT, OAuth, Firebase, RBAC)
+- REST APIs & backend systems with PostgreSQL / Prisma / MongoDB
+- Performance-optimized, SEO-friendly Next.js applications
+
 
 ---
 
