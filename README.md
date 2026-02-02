@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Engineer | Next.js & TypeScript | SaaS & Platform Builder   
 📍 Budapest, Hungary
-
+ 
 I’m a **full-stack engineer specialized in building production-grade web applications** using **Next.js, TypeScript, Node.js, PostgreSQL, and Prisma**.
 
 I have real-world experience shipping **SaaS platforms, admin dashboards, booking systems, and business applications**, owning features end-to-end — from system design and database modeling to deployment and maintenance.
