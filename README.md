@@ -19,19 +19,16 @@ I care about:
 
 **Frontend**
 - Next.js, React, TypeScript, JavaScript
-- Tailwind CSS, shadcn/ui, Material UI
+- Tailwind CSS, shadcn/ui, Material UI, NextUI
 
 **Backend**
 - Node.js, Express.js, Hono
 - PostgreSQL, Prisma, MongoDB, Mongoose
-- Firebase (Auth & serverless)
+- Better Auth, Next Auth, Firebase (Auth & serverless)
 
 **DevOps & Infrastructure**
 - Docker, CI/CD
 - Vercel, AWS, DigitalOcean, Netlify, Heroku
-
-**Workflow**
-- Git/GitHub, Monorepo, REST APIs, Agile
 
 ---
 
