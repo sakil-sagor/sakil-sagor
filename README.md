@@ -7,7 +7,7 @@ I’m a **full-stack engineer specialized in building production-grade web appli
 
 I have real-world experience shipping **SaaS platforms, admin dashboards, booking systems, and business applications**, owning features end-to-end — from system design and database modeling to deployment and maintenance.
 
-I care about:
+I care about: 
 - Clean architecture & maintainable code
 - Scalable backend systems
 - High-performance frontend with great UX
