@@ -14,7 +14,7 @@ I care about:
 - Shipping real products, not demo projects
 
 ---
-
+ 
 ## 🧠 Core Tech Stack
 
 **Frontend**
