@@ -12,7 +12,7 @@ I care about:
 - Scalable backend systems
 - High-performance frontend with great UX
 - Shipping real products, not demo projects
-
+ 
 ---
   
 ## 🧠 Core Tech Stack
