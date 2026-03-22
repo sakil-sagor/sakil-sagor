@@ -15,7 +15,7 @@ I care about:
  
 ---
   
-## 🧠 Core Tech Stack
+## 🧠 Core Tech Stack 
 
 **Frontend**
 - Next.js, React, TypeScript, JavaScript 
