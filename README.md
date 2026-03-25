@@ -11,7 +11,7 @@ I care about:
 - Clean architecture & maintainable code
 - Scalable backend systems
 - High-performance frontend with great UX
-- Shipping real products, not demo projects
+- Shipping real products, not demo projects 
  
 ---
   
