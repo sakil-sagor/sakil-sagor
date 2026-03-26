@@ -18,7 +18,7 @@ I care about:
 ## 🧠 Core Tech Stack  
 
 **Frontend**
-- Next.js, React, TypeScript, JavaScript  
+- Next.js, React, TypeScript, JavaScript   
 - Tailwind CSS, shadcn/ui, Material UI, NextUI
 
 **Backend**
