@@ -1,6 +1,6 @@
 # Hi, I'm A K M Sakil Sagor 👋
 
-🚀 Full-Stack Engineer | Next.js & TypeScript | SaaS & Platform Builder   
+🚀 Full-Stack Engineer | Next.js & TypeScript | SaaS & Platform Builder    
 📍 Barcelona, Spain
  
 I’m a **full-stack engineer specialized in building production-grade web applications** using **Next.js, TypeScript, Node.js, PostgreSQL, and Prisma**.
