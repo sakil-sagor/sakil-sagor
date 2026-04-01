@@ -77,7 +77,7 @@ I care about:
 
 ## 🌍 Links
 
-- 🌐 Portfolio: https://sakil-sagor.com
+- 🌐 Portfolio: https://sakil-sagor.netlify.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/sakilsagor/
 - 🧑‍💻 GitHub: https://github.com/sakil-sagor
 - 📧 Email: akmsakilsagor110@gmail.com
