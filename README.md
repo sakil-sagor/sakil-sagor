@@ -9,7 +9,7 @@ I have real-world experience shipping **SaaS platforms, admin dashboards, bookin
 
 I care about: 
 - Clean architecture & maintainable code
-- Scalable backend systems
+- Scalable backend systems 
 - High-performance frontend with great UX
 - Shipping real products, not demo projects 
  
