@@ -20,7 +20,7 @@ I care about:
 **Frontend**   
 - Next.js, React, TypeScript, JavaScript   
 - Tailwind CSS, shadcn/ui, Material UI, NextUI
-
+ 
 **Backend**
 - Node.js, Express.js, Hono
 - PostgreSQL, Prisma, MongoDB, Mongoose
