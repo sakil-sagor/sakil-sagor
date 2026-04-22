@@ -13,7 +13,7 @@ I care about:
 - High-performance frontend with great UX
 - Shipping real products, not demo projects 
  
----
+--- 
   
 ## 🧠 Core Tech Stack   
  
