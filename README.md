@@ -21,7 +21,7 @@ I care about:
 - Next.js, React, TypeScript, JavaScript                 
 - Tailwind CSS, shadcn/ui, Material UI, NextUI                              
           
-**Backend**
+**Backend** 
 - Node.js, Express.js, Hono
 - PostgreSQL, Prisma, MongoDB, Mongoose
 - Better Auth, Next Auth, Firebase (Auth & serverless)
